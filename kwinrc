@@ -8,19 +8,19 @@ Number=1
 CommandActiveTitlebar1=Raise
 CommandActiveTitlebar2=Nothing
 CommandActiveTitlebar3=Operations menu
-CommandAll1=Move
-CommandAll2=Toggle raise and lower
-CommandAll3=Resize
+CommandAll1=Nothing
+CommandAll2=Nothing
+CommandAll3=Nothing
 CommandAllKey=Alt
 CommandAllWheel=Nothing
 CommandInactiveTitlebar1=Activate and raise
 CommandInactiveTitlebar2=Nothing
 CommandInactiveTitlebar3=Operations menu
 CommandTitlebarWheel=Nothing
-CommandWindow1=Activate, raise and pass click
-CommandWindow2=Activate and pass click
+CommandWindow1=Activate and raise
+CommandWindow2=Activate and raise
 CommandWindow3=Activate and pass click
-CommandWindowWheel=Scroll
+CommandWindowWheel=Activate, raise and scroll
 
 [Plugins]
 windowgeometryEnabled=false
