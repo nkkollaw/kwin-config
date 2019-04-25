@@ -1,1 +1,11 @@
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.dbus/
+.local
+.sudo_as_admin_successful
+.xsession-errors
 
+Desktop
