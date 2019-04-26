@@ -2,7 +2,8 @@
 OpenGLIsUnsafe=false
 
 [Desktops]
-Number=1
+Number=5
+Rows=1
 
 [Effect-CoverSwitch]
 TabBox=false
@@ -50,8 +51,16 @@ CommandWindowWheel=Activate, raise and scroll
 
 [Plugins]
 coverswitchEnabled=true
+cubeslideEnabled=false
+desktopchangeosdEnabled=false
 highlightwindowEnabled=true
+kwin4_effect_fadedesktopEnabled=false
+slideEnabled=true
 windowgeometryEnabled=false
+
+[Script-desktopchangeosd]
+PopupHideDelay=1000
+TextOnly=false
 
 [TabBox]
 ActivitiesMode=1
@@ -105,6 +114,7 @@ MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
 NextFocusPrefersMouse=false
 Placement=Smart
+RollOverDesktops=true
 SeparateScreenFocus=false
 ShadeHover=false
 ShadeHoverInterval=250
